@@ -5,3 +5,8 @@ h1 {
 p {
     font-style: oblique;
 }
+
+table {
+    border: 2px solid red;
+    background-color: bisque;
+}
